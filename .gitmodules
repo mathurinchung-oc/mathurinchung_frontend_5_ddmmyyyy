@@ -1,0 +1,3 @@
+[submodule "fisheye"]
+	path = fisheye
+	url = https://github.com/mathurinchung/fisheye.git
