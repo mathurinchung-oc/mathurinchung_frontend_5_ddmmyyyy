@@ -11,7 +11,7 @@ git clone --recurse-submodules git@github.com:openclassrooms-student/mathurinchu
 
 Pour démarrer le projet avec Docker, saisir les commandes suivantes:
 ```bash
-cd gameon
+cd fisheye
 docker compose build --no-cache
 docker compose up -d
 ```
