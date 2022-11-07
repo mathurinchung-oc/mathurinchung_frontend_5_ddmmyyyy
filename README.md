@@ -12,9 +12,9 @@ Après la réunion de lancement, vous voyez un mail de votre cheffe de projet co
 >
 > :envelope:
 >
-> **Objet** :Réunion de lancement FishEye  
 > **De** : Amanda  
-> **À** : Moi
+> **À** : Moi  
+> **Objet** :Réunion de lancement FishEye
 >
 > Salut, 
 >
@@ -35,7 +35,7 @@ Après la réunion de lancement, vous voyez un mail de votre cheffe de projet co
 >
 > De plus, avant de soumettre ton travail, assure-toi qu'il respecte bien les contraintes techniques indiquées dans mes notes de réunion.
 >
->Bonne chance et montre-moi ce que tu sais faire !
+> Bonne chance et montre-moi ce que tu sais faire !
 >
 > **Amanda**  
 > Cheffe de Projet @Techasite
@@ -51,13 +51,17 @@ Lorsque vous commencez à regarder les maquettes, vous recevez un message instan
 >
 > :speech_balloon:
 >
-> **Zoé** : Salut ! Amanda m'a dit qu'elle t'avait chargé de développer le premier prototype du projet FishEye, c'est bien ça ?
+> **Zoé** :
+> Salut ! Amanda m'a dit qu'elle t'avait chargé de développer le premier prototype du projet FishEye, c'est bien ça ?
 >
-> **Moi** : Oui, je viens de commencer !
+> **Moi** :
+> Oui, je viens de commencer !
 >
-> **Zoé** : Tant mieux pour toi ! J'avais commencé ce projet, mais on m'a passé sur autre chose. Je pense que tu apprendras beaucoup au cours du processus. Je voulais juste te donner un petit conseil technique. Amanda a mentionné que FishEye a des vidéos et des photos pour le photographe. Pour ça il faudra que tu utilises un pattern Factory Method, ça sera idéal pour créer les media en distinguant les vidéos des photos.
+> **Zoé** :
+> Tant mieux pour toi ! J'avais commencé ce projet, mais on m'a passé sur autre chose. Je pense que tu apprendras beaucoup au cours du processus. Je voulais juste te donner un petit conseil technique. Amanda a mentionné que FishEye a des vidéos et des photos pour le photographe. Pour ça il faudra que tu utilises un pattern Factory Method, ça sera idéal pour créer les media en distinguant les vidéos des photos.
 >
-> **Moi** : OK, je vais utiliser le pattern Factory Method. Merci encore !
+> **Moi** :
+> OK, je vais utiliser le pattern Factory Method. Merci encore !
 >
 
 Bon, il semble bien que vous ayez maintenant tous les éléments dont vous avez besoin pour démarrer.  Il est temps de se mettre au travail !
